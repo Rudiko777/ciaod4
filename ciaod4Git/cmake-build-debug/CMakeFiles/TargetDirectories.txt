@@ -1,0 +1,3 @@
+/Users/rudik_moskow/CLionProjects/ciaod4/cmake-build-debug/CMakeFiles/ciaod4.dir
+/Users/rudik_moskow/CLionProjects/ciaod4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rudik_moskow/CLionProjects/ciaod4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
